@@ -88,6 +88,9 @@ color: #fff;
 .team-list {
     background-color: #ffffff;
 }
+.section-benefits .section-title {
+    line-height: 1.2;
+}
 .benefits-title-list {
     font-weight: 500;
 font-size: 20px;
@@ -141,7 +144,7 @@ color: #434455;
 }
 .footer-text {
         font-size: 16px;
-    line-height: 1.17;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
